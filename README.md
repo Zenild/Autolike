@@ -4,7 +4,7 @@ $pkg install git
 
 $pkg install python
 
-$git clone 
+$git clone https://github.com/Zenild/Autolike.git
 
 $cd fblf
 
